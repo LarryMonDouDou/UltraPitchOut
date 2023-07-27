@@ -1,0 +1,11 @@
+name: UltraPitchOut
+main: eq.larry.dev.UltraCore
+author: Larry!
+version: 1.0
+commands:
+    ptsetlobby:
+        description: Set le point de spawn du Lobby 
+    ptsetpoint:
+        description: Set le point de tp !
+    ptsetspectator:
+        description: Set le point de tp des spéctateur
